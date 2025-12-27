@@ -1,143 +1,162 @@
 # TMC - Temporal Memory Crystallization
 
-**Choose Your Speed: Lightning-Fast Basic Search OR Intelligent Multi-Layer Memory**
+**Choose Your Version: v1.0 (Free & Fast) OR v2.0 (Intelligent & Premium)**
 
-[![Free Version](https://img.shields.io/badge/TMC_Free-v1.0_Blazing_Fast-brightgreen)](https://github.com/kentstone84/Ai_Memory)
-[![Pro Version](https://img.shields.io/badge/TMC_Pro-v1.1+_Intelligent-blue)](https://github.com/kentstone84/Ai_Memory)
-[![License](https://img.shields.io/badge/Free_Tier-Open_Source-green)](https://github.com/kentstone84/Ai_Memory)
+[![Free Version](https://img.shields.io/badge/v1.0-Free_&_Blazing_Fast-brightgreen)](https://github.com/kentstone84/Ai_Memory)
+[![Pro Version](https://img.shields.io/badge/v2.0-Intelligent_&_Premium-blue)](https://github.com/kentstone84/Ai_Memory)
+[![License](https://img.shields.io/badge/v1.0-Open_Source-green)](https://github.com/kentstone84/Ai_Memory)
 
 ---
 
-## 🚀 TMC Free - Lightning Fast Vector Search
+## 🚀 TMC v1.0 - FREE & BLAZING FAST
 
-**255× faster than Pinecone. No strings attached.**
+**255× faster than Pinecone. No license. No limits. No bullshit.**
 
 ### Performance (100k vectors):
 - ⚡ **Sub-3ms retrieval** latency
 - 📊 **92% precision** in similarity search
 - 🚄 **255× faster** than Pinecone
 - 💰 **100% FREE** - No license required
+- 🔓 **Open Source** - Use anywhere, anytime
 
 ### Perfect For:
 - Basic RAG (Retrieval Augmented Generation)
 - High-speed similarity search
 - Simple vector storage and retrieval
 - Learning and experimentation
+- Production apps that need pure speed
 
-### Download TMC Free:
-- [Windows v1.0](https://github.com/kentstone84/AiMemory/releases/v1.0-free)
-- [macOS v1.0](https://github.com/kentstone84/AiMemory/releases/v1.0-free)
-- [Linux v1.0](https://github.com/kentstone84/AiMemory/releases/v1.0-free)
+### Download TMC v1.0 (FREE):
+- [Windows v1.0](https://github.com/kentstone84/AiMemory/releases/download/v1.0/tmc-server-windows.exe)
+- [macOS Intel v1.0](https://github.com/kentstone84/AiMemory/releases/download/v1.0/tmc-server-macos-intel)
+- [macOS ARM v1.0](https://github.com/kentstone84/AiMemory/releases/download/v1.0/tmc-server-macos-arm)
+- [Linux v1.0](https://github.com/kentstone84/AiMemory/releases/download/v1.0/tmc-server-linux)
 
 **No license. No limits. Just speed.** ⚡
 
 ---
 
-## 🧠 TMC Pro - Intelligent AI Memory
+## 🧠 TMC v2.0 - INTELLIGENT & PREMIUM
 
-**When you need memory that thinks, not just searches.**
+**When speed isn't enough - you need memory that actually thinks.**
 
-### What Makes It Different:
+### What's Different in v2.0?
 
-TMC Pro isn't just vector search - it's a **multi-dimensional memory system**:
+TMC v2.0 trades pure speed for multi-dimensional intelligence:
 
-- **📝 Content Layer** - Hash-based exact matching
-- **🧩 Semantic Layer** - Meaning and concept similarity
-- **💭 Emotional Layer** - Sentiment and tone analysis
-- **⏰ Temporal Layer** - Time-aware relevance
-- **🎯 Importance** - Priority-based filtering
+| Feature | v1.0 (Free) | v2.0 (Premium) |
+|---------|-------------|----------------|
+| **Speed** | Sub-3ms ⚡ | ~20-100ms 🐢 |
+| **Layers** | 1 (semantic only) | 5 (multi-dimensional) |
+| **Emotional Context** | ❌ | ✅ Sentiment analysis |
+| **Temporal Awareness** | ❌ | ✅ Time-based relevance |
+| **Adaptive Retrieval** | ❌ | ✅ AI decides strategy |
+| **License** | FREE | **PAID - Contact for pricing** |
+
+### The 5 Layers in v2.0:
+
+1. **📝 Content Layer** - Hash-based exact matching
+2. **🧩 Semantic Layer** - Meaning and concept similarity
+3. **💭 Emotional Layer** - Sentiment and tone analysis
+4. **⏰ Temporal Layer** - Time-aware relevance
+5. **🎯 Importance** - Priority-based filtering
 
 ### The Trade-Off:
 
-| Metric | TMC Free | TMC Pro | What You Get |
-|--------|----------|---------|--------------|
-| **Query Speed** | 3ms | ~20-100ms | Emotional + temporal context |
-| **Layers** | 1 (semantic) | 5 (multi-dimensional) | Intelligence vs raw speed |
-| **Use Case** | Fast search | Smart memory | Simple vs sophisticated |
-| **License** | FREE | Paid | Open source vs proprietary |
+**v2.0 costs you in TWO ways:**
 
-### Perfect For:
+💸 **Money** - Requires commercial license
+🐌 **Speed** - 6-33x slower than v1.0
 
-✅ **AI Agents** - Agents that remember context, emotions, and timing
+### Why Choose v2.0?
+
+✅ **AI Agents** - Agents need context, emotions, and timing (not just speed)
 ✅ **Emotional AI** - Chatbots with sentiment awareness
-✅ **Personal Knowledge** - Systems that track what matters and when
-✅ **Intelligent Assistants** - Not just similar, but contextually relevant
-✅ **Research Platforms** - Multi-dimensional analysis
+✅ **Personal Knowledge** - Systems that remember what matters AND when
+✅ **Intelligent Assistants** - Context-aware retrieval
+✅ **Research Platforms** - Multi-dimensional search
 
-### Retrieval Modes:
-
-TMC Pro adapts its strategy based on your query:
+### Adaptive Retrieval in Action:
 
 ```
-Query: "I'm feeling overwhelmed with deadlines"
+Query: "I'm feeling overwhelmed with work deadlines"
 
 ┌─────────────────────────────────────┐
-│     TMC Pro Adaptive Retrieval      │
+│     TMC v2.0 Adaptive Retrieval     │
 ├─────────────────────────────────────┤
 │ Hash:     "overwhelmed" "deadlines" │ 35%
 │ Semantic: stress/anxiety concepts   │ 30%
 │ Emotional: negative sentiment       │ 25%
 │ Temporal: recent memories           │ 10%
 └─────────────────────────────────────┘
+    ↓
+Intelligently ranked results that understand:
+- What you said (keywords)
+- What you meant (concepts)
+- How you feel (emotion)
+- When it matters (time)
 ```
 
-- **Adaptive** - AI decides the best strategy
-- **SemanticOnly** - Pure meaning search
-- **HashOnly** - Exact keywords
-- **Hybrid** - Custom weight control
-- **Temporal** - Time-based relevance
-- **Emotional** - Sentiment matching
+### Get TMC v2.0:
 
-### Get TMC Pro:
+**📧 Contact for licensing:**
+- **Email:** kent.stone@gmail.com
+- **Phone:** +51 945 012 953
 
-**Contact for licensing:**
-- Email: kent.stone@gmail.com
-- Phone: +51 945 012 953
+**Pricing Tiers:**
+- **Starter** - Development & testing
+- **Pro** - Production applications
+- **Enterprise** - Unlimited usage
+- **Academic** - Research discounts
 
-**Pricing:**
-- **Starter**: Development & testing
-- **Pro**: Production applications
-- **Enterprise**: Unlimited usage
-- **Academic**: Research discounts available
+### Download TMC v2.0 (Requires License):
+- [Windows v2.0](https://github.com/kentstone84/AiMemory/releases/download/v2.0/tmc-server-windows.exe)
+- [macOS Intel v2.0](https://github.com/kentstone84/AiMemory/releases/download/v2.0/tmc-server-macos-intel)
+- [macOS ARM v2.0](https://github.com/kentstone84/AiMemory/releases/download/v2.0/tmc-server-macos-arm)
+- [Linux v2.0](https://github.com/kentstone84/AiMemory/releases/download/v2.0/tmc-server-linux)
 
 ---
 
 ## 📥 Quick Start
 
-### TMC Free (v1.0)
+### TMC v1.0 (Free & Fast)
 
-1. **Download** the free version for your platform
-2. **Run** it - no license needed
+1. **Download** v1.0 for your platform (see links above)
+2. **Run** it - no license needed:
+   ```bash
+   ./tmc-server
+   ```
 3. **Store** memories:
    ```bash
    curl -X POST http://localhost:8000/crystallize \
      -H "Content-Type: application/json" \
      -d '{"text": "Your memory here", "importance": 0.8}'
    ```
-4. **Retrieve** with lightning speed:
+4. **Retrieve** at lightning speed:
    ```bash
    curl -X POST http://localhost:8000/retrieve \
      -H "Content-Type: application/json" \
      -d '{"query": "search term", "k": 5}'
    ```
 
-### TMC Pro (v1.1+)
+### TMC v2.0 (Premium & Intelligent)
 
 1. **Get a license** from kent.stone@gmail.com
-2. **Download** TMC Pro for your platform:
-   - [Windows Pro](https://github.com/kentstone84/AiMemory/releases/latest/download/tmc-server.exe)
-   - [macOS Intel Pro](https://github.com/kentstone84/AiMemory/releases/latest/download/tmc-server-macos-intel)
-   - [macOS ARM Pro](https://github.com/kentstone84/AiMemory/releases/latest/download/tmc-server-macos-arm)
-   - [Linux Pro](https://github.com/kentstone84/AiMemory/releases/latest/download/tmc-server-linux)
-
+2. **Download** v2.0 for your platform (see links above)
 3. **Run with license**:
    ```bash
-   TMC_LICENSE_KEY="your-key" ./tmc-server
+   TMC_LICENSE_KEY="your-key-here" ./tmc-server
+   ```
+
+   Or on Windows use `run-tmc-server.bat`:
+   ```cmd
+   set TMC_LICENSE_KEY=your-key-here
+   tmc-server.exe
    ```
 
 4. **Use intelligent memory**:
    ```bash
-   curl -X POST http://localhost:8000/v1.1/crystallize \
+   curl -X POST http://localhost:8000/v2/crystallize \
      -H "Content-Type: application/json" \
      -d '{
        "text": "Feeling excited about the new AI project!",
@@ -149,7 +168,7 @@ Query: "I'm feeling overwhelmed with deadlines"
 
 5. **Adaptive retrieval**:
    ```bash
-   curl -X POST http://localhost:8000/v1.1/retrieve \
+   curl -X POST http://localhost:8000/v2/retrieve \
      -H "Content-Type: application/json" \
      -d '{
        "query": "positive work experiences",
@@ -162,33 +181,32 @@ Query: "I'm feeling overwhelmed with deadlines"
 
 ## 🎯 Which Version Should You Choose?
 
-### Choose TMC Free if:
-- ✅ You need blazing-fast vector search
+### Choose v1.0 (FREE) if:
+- ✅ You need **blazing-fast** vector search
 - ✅ Simple similarity search is enough
 - ✅ You're building basic RAG systems
-- ✅ You want to experiment first
-- ✅ Budget is a concern
+- ✅ **Speed is your top priority**
+- ✅ Budget is a concern / trying things out
 
-### Choose TMC Pro if:
-- ✅ You're building AI agents with memory
-- ✅ Emotional context matters
-- ✅ You need temporal awareness
+### Choose v2.0 (PAID) if:
+- ✅ You're building **AI agents** with memory
+- ✅ **Emotional context** matters
+- ✅ You need **temporal awareness**
 - ✅ Multi-dimensional search is valuable
-- ✅ You want "smart" not just "fast"
+- ✅ You want **intelligence over speed**
 
-### Or Start Free, Upgrade Later!
+### The Honest Truth:
 
-Many customers start with TMC Free and upgrade to Pro when they need:
-- Emotional intelligence
-- Temporal context
-- Adaptive retrieval
-- Multi-layer analysis
+**v1.0** → Fast but simple (one-dimensional similarity)
+**v2.0** → Smart but slower (five-dimensional intelligence)
+
+**Most people should start with v1.0.** Upgrade to v2.0 when you hit the limits of simple similarity search.
 
 ---
 
 ## 📊 API Endpoints
 
-### TMC Free (v1.0) Endpoints:
+### v1.0 Endpoints (FREE):
 
 | Endpoint | Method | Description |
 |----------|--------|-------------|
@@ -197,81 +215,88 @@ Many customers start with TMC Free and upgrade to Pro when they need:
 | `/retrieve` | POST | Search memories |
 | `/stats` | GET | System statistics |
 
-### TMC Pro (v1.1+) Additional Endpoints:
+### v2.0 Additional Endpoints (PAID):
 
 | Endpoint | Method | Description |
 |----------|--------|-------------|
-| `/v1.1/crystallize` | POST | Multi-layer storage |
-| `/v1.1/retrieve` | POST | Adaptive retrieval |
+| `/v2/crystallize` | POST | Multi-layer storage |
+| `/v2/retrieve` | POST | Adaptive retrieval |
+
+**Note:** v2.0 includes ALL v1.0 endpoints plus the advanced features.
 
 ---
 
 ## 🛠️ Integration Examples
 
-### Python Integration (Works with both versions)
+### Python Client (Works with both versions)
 
 ```python
 import requests
 
 class TMCClient:
-    def __init__(self, base_url="http://localhost:8000", pro=False):
+    def __init__(self, base_url="http://localhost:8000", version=1):
         self.base_url = base_url
-        self.pro = pro
+        self.version = version
 
     def remember(self, text, importance=0.5, emotion=None):
         """Store a memory"""
-        endpoint = "/v1.1/crystallize" if self.pro else "/crystallize"
-        payload = {"text": text, "importance": importance}
-
-        if self.pro and emotion:
-            payload["emotion_vector"] = emotion
+        if self.version == 2:
+            endpoint = "/v2/crystallize"
+            payload = {
+                "text": text,
+                "importance": importance,
+                "emotion_vector": emotion or [0.5, 0.5, 0.0]
+            }
+        else:
+            endpoint = "/crystallize"
+            payload = {"text": text, "importance": importance}
 
         return requests.post(f"{self.base_url}{endpoint}", json=payload).json()
 
     def recall(self, query, k=5, mode="Adaptive"):
         """Retrieve memories"""
-        endpoint = "/v1.1/retrieve" if self.pro else "/retrieve"
-        payload = {"query": query, "k": k}
-
-        if self.pro:
-            payload["mode"] = mode
+        if self.version == 2:
+            endpoint = "/v2/retrieve"
+            payload = {"query": query, "k": k, "mode": mode}
+        else:
+            endpoint = "/retrieve"
+            payload = {"query": query, "k": k}
 
         return requests.post(f"{self.base_url}{endpoint}", json=payload).json()
 
-# Use TMC Free
-tmc_free = TMCClient(pro=False)
-tmc_free.remember("Fast memory storage", importance=0.8)
-results = tmc_free.recall("fast storage")
+# Use v1.0 (Free & Fast)
+tmc_v1 = TMCClient(version=1)
+tmc_v1.remember("Fast memory storage", importance=0.8)
+results = tmc_v1.recall("fast storage")
 
-# Use TMC Pro
-tmc_pro = TMCClient(pro=True)
-tmc_pro.remember(
+# Use v2.0 (Premium & Intelligent)
+tmc_v2 = TMCClient(version=2)
+tmc_v2.remember(
     "Exciting breakthrough!",
     importance=0.9,
     emotion=[0.9, 0.1, 0.0]  # Positive emotion
 )
-results = tmc_pro.recall("exciting news", mode="Emotional")
+results = tmc_v2.recall("exciting news", mode="Emotional")
 ```
 
-### LangChain Integration
+---
 
-```python
-from langchain_tmc import TMCVectorStore
+## 📈 Performance Comparison
 
-# TMC Free - fast and simple
-vectorstore_free = TMCVectorStore(
-    url="http://localhost:8000",
-    version="free"
-)
+| Metric | v1.0 (Free) | v2.0 (Paid) | Winner |
+|--------|-------------|-------------|--------|
+| **Query Speed** | 3ms | 20-100ms | v1.0 (33x faster) |
+| **Write Speed** | Fast | Slower | v1.0 |
+| **Precision** | 92% | 92%+ | Tie |
+| **Emotional Context** | No | Yes | v2.0 |
+| **Temporal Awareness** | No | Yes | v2.0 |
+| **Adaptive Modes** | No | Yes | v2.0 |
+| **Cost** | FREE | PAID | v1.0 |
 
-# TMC Pro - intelligent and adaptive
-vectorstore_pro = TMCVectorStore(
-    url="http://localhost:8000",
-    version="pro",
-    mode="Adaptive",
-    include_emotions=True
-)
-```
+**Bottom Line:**
+- Need speed? → **v1.0**
+- Need intelligence? → **v2.0**
+- Not sure? → **Start with v1.0**
 
 ---
 
@@ -279,14 +304,14 @@ vectorstore_pro = TMCVectorStore(
 
 Want to verify the performance claims?
 
-**TMC Free benchmarks:**
+**v1.0 benchmarks:**
 ```bash
-python benchmark_tmc_free.py
+python benchmark_tmc.py
 ```
 
-**TMC Pro benchmarks:**
+**v2.0 benchmarks:**
 ```bash
-python benchmark_tmc_pro.py
+python benchmark_comprehensive.py
 ```
 
 See [BENCHMARK_GUIDE.md](BENCHMARK_GUIDE.md) for details.
@@ -311,21 +336,40 @@ See [BENCHMARK_GUIDE.md](BENCHMARK_GUIDE.md) for details.
 
 ## 📄 License
 
-- **TMC Free (v1.0):** Open Source - Use freely
-- **TMC Pro (v1.1+):** Proprietary - Commercial license required
+- **TMC v1.0:** Open Source - Use freely anywhere
+- **TMC v2.0:** Proprietary - **Commercial license required**
+
+**To get a v2.0 license:** Contact kent.stone@gmail.com
 
 ---
 
 ## 🎯 The Bottom Line
 
-**Need speed?** → Use TMC Free (v1.0)
+**Need speed?** → Use TMC v1.0 (FREE)
 
-**Need intelligence?** → Upgrade to TMC Pro (v1.1+)
+**Need intelligence?** → Get TMC v2.0 (Contact for license)
 
-**Not sure?** → Start free, upgrade when you need more
+**Not sure?** → Start with v1.0, upgrade when you need the extra layers
+
+---
+
+## ⚠️ Version History
+
+### v2.0 (Current - Premium)
+- Multi-layer architecture (5 layers)
+- Emotional context analysis
+- Temporal awareness
+- Adaptive retrieval modes
+- **Requires commercial license**
+
+### v1.0 (Current - Free)
+- Lightning-fast vector search
+- 255× faster than Pinecone
+- Simple similarity search
+- **Open source - no license required**
 
 ---
 
 **© 2025 TMC. All rights reserved.**
 
-*TMC Free - Stupid fast. TMC Pro - Stupid smart.*
+*v1.0 - Stupid fast. v2.0 - Stupid smart.*
